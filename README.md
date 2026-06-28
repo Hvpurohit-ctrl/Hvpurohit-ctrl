@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Harshvardhan Purohit
+# Hi, I'm Harshvardhan Purohit
 
 <div align="center">
 
