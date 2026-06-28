@@ -1,4 +1,8 @@
-Hi there 👋 I'm Harshvardhan Purohit
+# Hi there 👋 I'm Harshvardhan Purohit
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6A5ACD,50:7B68EE,100:4B0082&text=Harshvardhan%20Purohit&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 - 🎓 I'm currently pursuing B.Tech in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning at SRM Institute of Science and Technology, Kattankulathur, Chennai, Tamil Nadu.
 - 🤝 I'm looking to collaborate on open source projects, participate in hackathons, and gain hands-on experience in AI, backend development, and full-stack web development.
