@@ -11,6 +11,10 @@
 <img src="https://img.shields.io/badge/Computer%20Science%20Engineering%20(AI%20%26%20ML)-Student-6A5ACD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Artificial%20Intelligence%20%26%20Machine%20Learning-Enthusiast-7B68EE?style=for-the-badge"/>
 
+<br><br>
+
+<img src="https://img.shields.io/badge/Location-Chennai%2C%20Tamil%20Nadu%2C%20India-blueviolet?style=for-the-badge"/>
+
 <br>
 
 
