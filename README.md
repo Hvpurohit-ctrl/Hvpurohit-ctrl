@@ -15,6 +15,20 @@
 
 <img src="https://img.shields.io/badge/Location-Chennai%2C%20Tamil%20Nadu%2C%20India-blueviolet?style=for-the-badge"/>
 
+<br><br>
+
+<a href="https://www.linkedin.com/in/harshvardhan-purohit-b46974380/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:hvpurohit13@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://instagram.com/dead.croco">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+</a>
+
 <br>
 
 
