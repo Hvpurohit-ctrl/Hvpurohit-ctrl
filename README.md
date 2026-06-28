@@ -26,7 +26,7 @@
 </a>
 
 <a href="https://instagram.com/dead.croco">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-Connect-pink?logo=Instagram&logoColor=white"/>
 </a>
 
 <br>
