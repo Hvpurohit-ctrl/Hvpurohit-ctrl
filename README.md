@@ -48,5 +48,6 @@
 ![](https://streak-stats.demolab.com/?user=Hvpurohit-ctrl&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hvpurohit-ctrl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6A5ACD,50:7B68EE,100:4B0082"/>
+</div>
