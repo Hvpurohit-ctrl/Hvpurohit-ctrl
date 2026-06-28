@@ -8,9 +8,8 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Computer+Science+Engineering+(AI+%26+ML)-Student-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Artificial+Intelligence+%26+Machine+Learning-Enthusiast-7B68EE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence%20%26%20Machine%20Learning-Learning-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Science%20Engineering%20(AI%20%26%20ML)-Student-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence%20%26%20Machine%20Learning-Enthusiast-7B68EE?style=for-the-badge"/>
 
 <br>
 
