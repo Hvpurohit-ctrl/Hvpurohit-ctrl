@@ -4,6 +4,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6A5ACD,50:7B68EE,100:4B0082&text=Harshvardhan%20Purohit&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&weight=600\&size=28\&duration=3000\&pause=1000\&color=7B68EE\&center=true\&vCenter=true\&width=1000\&lines=Computer+Science+Engineering+(AI+%26+ML)+Student;Artificial+Intelligence+%26+Machine+Learning+Enthusiast;Aspiring+AI+Engineer;Deep+Learning+Learner;Building+AI-Powered+Solutions)](https://git.io/typing-svg)
+
 - 🎓 I'm currently pursuing B.Tech in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning at SRM Institute of Science and Technology, Kattankulathur, Chennai, Tamil Nadu.
 - 🤝 I'm looking to collaborate on open source projects, participate in hackathons, and gain hands-on experience in AI, backend development, and full-stack web development.
 - 😄 Pronouns: he/him
